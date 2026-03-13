@@ -34,7 +34,7 @@ NWL_Poster.ipynb: The primary analysis engine containing data cleaning, EDA, and
 
 2025_NWL_Stats.xls: Raw data source containing league-wide hitting statistics.
 
-correlations_rc.png: Exported visualization showing the impact of various stats on run production.
+nwl_feature_importance.png: Exported visualization showing the impact of various stats on run production.
 
 # Conclusion
 This project was conducted in preperation for our semester long capstone project. The intention is for team Northwoods League Teams to use these findings to inform scouting decisions regarding emerging college talent. By revealing which of the advanced metrics actually matter, teams should be able to focus on the key areas identified in our study (ISOP vs. BB/K.) 
