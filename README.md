@@ -1,5 +1,5 @@
 # Northwoods League Player Analysis
-
+![Poster Presentation](poster.png)
 # Project Overview
 This project analyzes offensive data from the Northwoods League (NWL) to determine which "process" statistics (like Walk Rate and Isolated Power) most effectively correlate with "results" metrics like Runs Created (RC) and On-base Plus Slugging (OPS).
 
